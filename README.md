@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an aspiring Supply Chain Analyst with a passio
 
 ### 🛠️ Projects & Portfolio
 
-- [Portfolio](https://github.com/gijojohn7904/Portfolio)
+- [My Portfolio](https://github.com/gijojohn7904/Portfolio)
 - **Palletized RFID Tracking System**: Led the implementation of an RFID tracking system to reduce mis-sorts and breaches, significantly boosting operational efficiency.
 - **COVID-19 Data Analysis**: Conducted in-depth analysis using SQL to uncover critical insights, informing public health strategies for more efficient resource allocation.
 
