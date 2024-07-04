@@ -6,10 +6,7 @@ Welcome to my GitHub profile! I'm an aspiring Supply Chain Analyst with a passio
 
 - **Current Role**: Data Analyst Intern at Mentorness, where I develop and visualize key performance metrics to aid in policy evaluation and decision-making.
 - **Past Experience**: Over 2.9 years at Flipkart, leading a team of 120+ members in optimizing warehouse functions and reducing operational inefficiencies.
-- **Key Achievements**:
-  - Reduced operational pendencies by 20%
-  - Decreased breach incidents by 43%
-  - Enhanced safety and quality, cutting workplace incidents by 17%
+
 
 ### 💼 Technical Skills
 
@@ -19,18 +16,12 @@ Welcome to my GitHub profile! I'm an aspiring Supply Chain Analyst with a passio
 
 ### 📚 Certifications
 
-- Certified Data Science Professional from Odin School.
+- Certified Data Science Professional from @OdinSchool.
 
 ### 🛠️ Projects
 
 - **Palletized RFID Tracking System**: Led the implementation of an RFID tracking system to reduce mis-sorts and breaches, significantly boosting operational efficiency.
 - **COVID-19 Data Analysis**: Conducted in-depth analysis using SQL to uncover critical insights, informing public health strategies for more efficient resource allocation.
-
-### 📈 Professional Experience
-
-- **Flipkart**: Supervised warehouse operations, leading to substantial improvements in efficiency and safety.
-- **ICICI Bank**: Conducted market research, providing insights to formulate new financial products and increase customer engagement.
-- **Godrej & Boyce**: Exceeded sales targets and improved customer relationship management.
 
 ### 🌐 Connect with Me
 
