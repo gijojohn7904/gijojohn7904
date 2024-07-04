@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an aspiring Supply Chain Analyst with a passio
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gijojohn/)
-- [Blog & Portfolio](https://supplychainanalytics.in/)
+- [Blog & Portfolio Website](https://supplychainanalytics.in/)
 - [Email](mailto:johngijo1@gmail.com)
 
 I'm always excited to collaborate on projects that push the boundaries of supply chain management and data analytics. Feel free to reach out if you'd like to work together or just want to connect!
